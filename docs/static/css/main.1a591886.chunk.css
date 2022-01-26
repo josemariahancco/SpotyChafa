@@ -1,0 +1,2 @@
+html{box-sizing:border-box;font-family:sans-serif,helvetica;font-size:16px}body,html{background-color:#000;color:#fff}.puntero{text-align:left;cursor:pointer}.contenido{max-height:0;overflow:hidden;transition:all .5s cubic-bezier(0,1,0,1)}.contenido.mostrar{height:auto;max-height:9999px;transition:all .5s cubic-bezier(1,0,1,0)}iframe{display:block;width:100%;border:0;padding:0;margin:0;height:65px}.btn{background-color:#1db954}.titulo{color:#000}.resultados{background-color:#181818}.letra{background-color:#1db954}
+/*# sourceMappingURL=main.1a591886.chunk.css.map */
